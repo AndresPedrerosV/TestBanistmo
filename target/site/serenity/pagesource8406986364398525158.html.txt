@@ -1,0 +1,277 @@
+<html lang="en" class="dj_webkit dj_chrome dj_contentbox"><head>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<!-- rel=dynamic-content indicates an element that is replaced with the contents produced by the specified href. 
+	 dyn-cs:* URIs are resolved using the values within the 'wp_dynamicContentSpots_85' theme module. -->
+<link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/sp/mashup:ra:collection?soffset=0&amp;eoffset=24&amp;themeID=ZJ_00000000000000A0BR2B300QC6&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1524387498000&amp;entry=wp_one_ui_303__0.0%3Ahead_css&amp;entry=wp_one_ui_dijit_303__0.0%3Ahead_css&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wp_liveobject_framework__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=wp_legacy_layouts__0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wp_theme_portal_edit_85__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css" type="text/css"><link rel="alternate" id="head_css_deferred" href="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/sp/mashup:ra:collection?soffset=0&amp;eoffset=1&amp;themeID=ZJ_00000000000000A0BR2B300QC6&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1512156768000&amp;entry=wp_content_mapping_picker__0.0%3Ahead_css&amp;deferred=true"><script type="text/javascript">var djConfig={"baseUrl":"/wps/portal_dojo/v1.9/dojo/","locale":"en","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"/wps/themeModules/js/com","ibm":"/wps/themeModules/js/ibm","pagebuilder":"/wps/themeModules/modules/pagebuilder/js","portalclient":"/wps/themeModules/modules/portalclient/js","asa":"/wps/themeModules/modules/asa/js","contentmapping":"/wps/themeModules/modules/contentmapping/js","federation":"/wps/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_00000000000000A0BR2B300GG2"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_00000000000000A0BR2B300G80","Z6_00000000000000A0BR2B300GG2","Z6_000000000000000000000000A0","Z6_00000000000000A0BR2B300GG2","Z6_00000000000000A0BR2B300GG2","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0","Z6_00000000000000A0BR2B300G80"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_00000000000000A0BR2B300G80','Z6_00000000000000A0BR2B300GG2'];wpModules.state.page.supportsEditMode=false;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='/wps/portal';wpModules.state.page.protectedPath='/wps/myportal';wpModules.state.page.publicPath='/wps/portal';})();</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/mashup/ra:collection?themeID=ZJ_00000000000000A0BR2B300QC6&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1524387498000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=dijit_app_19__0.0%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_theme_portal_85__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js"></script><link rel="alternate" id="head_js_deferred" href="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_00000000000000A0BR2B300QC6&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1512156772000&amp;entry=dojox_collections_19__0.0%3Ahead_js&amp;entry=dojox_xml_19__0.0%3Ahead_js&amp;entry=wp_portal_client_utils__0.0%3Ahead_js&amp;entry=wp_portlet_client_model__0.0%3Ahead_js&amp;entry=dojox_data_basic_19__0.0%3Ahead_js&amp;entry=mm_open_ajax_hub__0.0%3Ahead_js&amp;entry=dojox_uuid_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_fx_19__0.0%3Ahead_js&amp;entry=dojox_io_19__0.0%3Ahead_js&amp;entry=dojox_aspect_19__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;deferred=true"><!--[if IE 7]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie lotusui_ie7";</script>
+<![endif]--> 
+<!--[if IE 8]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie8";</script>
+<![endif]-->
+<!--[if IE 9]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie9";</script>
+<![endif]-->
+<link id="U2SA5-yjw8D" rel="alternate" href="https://www.bancolombia.com/wps/portal/!ut/p/z1/nZA9C8IwEIZ_i0PHckfFj7UVya4Wm1vkSFMJtEmIksFfb9zsYERvO3ifl4cXCDogy9Fc-W6c5TH9ktYXnF2NzaFqlohCVHDOBrYI9Dv_Hv2HnwUoXy8Tv_nE78QKjkBADLJAVjooLntdoLGDCxOrNFKpXPAupMEiF-iDi1r3LuhbUqOs_Wucb3p-atvucRr8vl48AYvp7Zc!/"><script type="text/javascript">(function() {
+	var element = document.getElementById("U2SA5-yjw8D");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><style id="layout-wstate-styles"></style>
+<title>Friendly Name Disambiguation</title>
+
+
+<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/wps/portal/!ut/p/z1/nZA9C8IwEIZ_i0PHckfFj7UVya4Wm1vkSFMJtEmIksFfb9zsYERvO3ifl4cXCDogy9Fc-W6c5TH9ktYXnF2NzaFqlohCVHDOBrYI9Dv_Hv2HnwUoXy8Tv_nE78QKjkBADLJAVjooLntdoLGDCxOrNFKpXPAupMEiF-iDi1r3LuhbUqOs_Wucb3p-atvucRr8vl48AYvp7Zc!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzAwMDAwMDAwMDAwMDAwQTBCUjJCMzAwR0cy/">
+
+
+<link href="/wps/contenthandler/!ut/p/digest!1ZE9Umy1eVNSvwoh7BCY5w/dav/fs-type1/themes/Portal8.5/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<!-- rendering is delegated to the specified href for each locale -->
+</head>
+<body id="content" class="lotusui30dojo tundra claro locale_en toolbar-closed">	
+	
+	<div class="wpthemeFrame">
+		
+		<header role="banner" tabindex="-1" aria-label="Main header">
+
+			<!-- site toolbar -->
+			<div class="wpthemeHeader">
+				<div class="wpthemeInner">
+					<div class="wpthemeLogo wpthemeLeft">
+						<span class="wpthemeAltText">IBM WebSphere Portal</span>
+					</div>
+					
+					<!-- renders the top navigation -->
+					</div>
+			</div><!-- end header -->
+
+			<div class="wpthemeBanner">
+				<div class="wpthemeBannerInner">
+					<div class="wpthemeInner">
+						
+<ul class="wpthemeCommonActions wpthemeLeft">
+
+    
+    <li>
+        <span class="wpthemeBranding">
+            <a class="wpthemeBrandingLink" href="?uri=nm:oid:Z6_00000000000000A0BR2B300G80&amp;st=" alt="Hidden Pages">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==" alt="IBM Logo">
+            </a>
+            <span class="wpthemeAltText">IBM Logo</span>
+        </span>
+    </li>
+
+</ul>
+<ul class="wpthemeCommonActions wpthemeRight">
+
+
+            <li class="wpthemeFirst" id="wpthemeSignUp">
+                <a href="dz/d5/L0lJSkdKSUtVSklKQ2dwUkNncFJBL29Od3dBQUFZUUFBRUl3UWxDVTVBQUdNSUtTcEtGTFJ0R0ZvIS80TmxFTklVTVFuRmR1WXBNaFFUVWs1Q2ltcHBBL1o2XzAwMDAwMDAwMDAwMDAwQTBCUjJCMzAwR1YwL1o3XzAwMDAwMDAwMDAwMDAwQTBCUjJCMzAwSU8wL25vcm1hbC9hby90aG0vT0NOL1o2XzAwMDAwMDAwMDAwMDAwQTBCUjJCMzAwR0cy/#Z7_00000000000000A0BR2B300IO0">Sign Up</a>
+            </li>
+        
+        <li class="wpthemeLast" id="wpthemeLogin">
+            <a href="/wps/myportal/!ut/p/z1/nZA9C8IwEIZ_i0PHckfFj7UVya4Wm1vkSFMJtEmIksFfb9zsYERvO3ifl4cXCDogy9Fc-W6c5TH9ktYXnF2NzaFqlohCVHDOBrYI9Dv_Hv2HnwUoXy8Tv_nE78QKjkBADLJAVjooLntdoLGDCxOrNFKpXPAupMEiF-iDi1r3LuhbUqOs_Wucb3p-atvucRr8vl48AYvp7Zc!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzAwMDAwMDAwMDAwMDAwQTBCUjJCMzAwR0cy/">Log In</a>
+        </li>
+    
+
+</ul><div class="wpthemeClear"></div>
+					</div>
+				</div>
+			</div><!--end main banner-->
+			
+			<div class="wpthemeBanner wpthemeBannerPrimaryNavigation">
+				<div class="wpthemeBannerInner">
+					<div class="wpthemeInner">
+						<div class="wpthemeClear"></div>
+					</div>
+				</div>
+			</div><!--end primary nav banner-->
+			
+			<div class="wpthemeSecondaryBanner">
+				<div class="wpthemeClear"></div>
+			</div><!--end secondary banner-->
+		</header>
+
+		<div class="wpthemeMainContent" role="main" tabindex="-1" aria-label="IBM WebSphere Portal">
+			<div class="wpthemeInner">	
+				<!-- asa markup contributions for pages -->	
+				<div class="wpthemeClear"></div>
+				
+<div class="wpthemeInner">
+	<div id="wpthemeStatusBarContainer" class="wpthemeStatusBarContainer">
+
+		
+		<noscript>
+			<div class="wpthemeMessage" role="alert" wairole="alert">
+				<img class="wpthemeMsgIcon wpthemeMsgIconError" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="Error" />
+				<span class="wpthemeAltText">Error:</span>
+				<div class="wpthemeMessageBody">Javascript is disabled in this browser. This page requires Javascript. Modify your browser's settings to allow Javascript to execute. See your browser's documentation for specific instructions.</div>
+			</div>
+		</noscript>
+
+	</div>
+</div>
+</div>		
+
+			<!-- required - do not remove -->
+			<div style="display:none" id="portletState">{"Z7_00000000000000A0BR2B300CG5":{"windowState":"normal","portletMode":"view"}}</div><div id="layoutContainers" class="wpthemeLayoutContainers wpthemeLayoutContainersHidden">	
+				<div class="wpthemeInner">					
+					
+
+
+
+
+
+
+
+
+
+<table class="layoutRow ibmDndRow component-container " cellpadding="0" cellspacing="0" role="presentation">
+	<tbody><tr>
+
+        
+            
+
+		<td valign="top">
+            
+
+
+
+
+
+
+
+
+
+<table class="layoutColumn ibmDndColumn component-container id-Z7_00000000000000A0BR2B300CG1 layoutNode" cellpadding="0" cellspacing="0" role="presentation">
+	
+	<tbody><tr>
+		<td style="width:100%;" valign="top">
+			<div class="component-control id-Z7_00000000000000A0BR2B300CG5"><span id="Z7_00000000000000A0BR2B300CG5"></span><section class="ibmPortalControl wpthemeControl wpthemeHidden a11yRegionTarget" role="region" aria-label="<span lang=&quot;en&quot; dir=&quot;ltr&quot;>Friendly Name is not unique</span>">
+
+	
+	<!-- start header markup -->
+	<header class="wpthemeControlHeader" role="banner" aria-label="skinHeaderZ7_00000000000000A0BR2B300CG5">
+		<div class="wpthemeInner">
+			<h2>
+				<img class="dndHandle" draggable="true" ondragstart="wpModules.dnd.util.portletDragStart(event, this, this.parentNode, 30, 0);" ondragend="wpModules.dnd.util.portletDragEnd(event);" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="">
+				<!-- lm-dynamic-title node marks location for dynamic title support -->
+ 				<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"><span lang="en" dir="ltr">Friendly Name is not unique</span></span>
+			</h2>
+			<a aria-haspopup="true" aria-label="Display content menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus contextMenuInSkinIcon" style="display:none" tabindex="0">
+				<span title="Display content menu"><img aria-label="Display content menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Component Action Menu</span>
+				<!-- start CAM template -->
+				<span class="wpthemeMenu" data-positioning-handler="horizontallyCenteredBelow">
+					<div class="wpthemeMenuBorder">
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+						</ul>
+						<div class="verticalMenuPointer pointer"></div>
+					</div> <!-- Template for loading -->
+					<div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+					<!-- Template for submenu -->
+					<div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+						<div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+							<ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+								<li role="menuitem" tabindex="-1"></li>
+							</ul>
+						</div>
+					</div>
+				</span>
+				<!-- end CAM template -->
+			</a>
+			<a aria-haspopup="true" aria-label="Display portlet menu" role="button" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus" tabindex="0" onclick="if (typeof wptheme != 'undefined') wptheme.contextMenu.init({ 'node': this, menuId: 'skinAction', jsonQuery: {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}, params: {'alignment':'right'}});" onkeydown="javascript:if (typeof i$ != 'undefined' &amp;&amp; typeof wptheme != 'undefined') {if (event.keyCode ==13 || event.keyCode ==32 || event.keyCode==38 || event.keyCode ==40) {wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)}); return false;}}">
+				<span title="Display portlet menu"><img aria-label="Display portlet menu" alt="" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"></span>
+				<span class="wpthemeAltText">Actions</span>
+			</a>
+		</div>
+	</header>
+	
+	<div class="wpthemeControlBody wpthemeOverflowAuto wpthemeClear"> <!-- lm:control dynamic spot injects markup of layout control -->
+	<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+		<div style="position:relative; z-index: 1;">
+			<div class="analytics.overlay"></div>
+		</div>
+		This portlet is unavailable.<div class="wpthemeClear"></div>
+	</div>
+</section>
+</div>
+		</td>
+	</tr>
+	 
+</tbody></table>
+		</td>
+
+        
+        
+	</tr>
+</tbody></table><div class="wpthemeClear"></div>
+				</div>
+			</div>
+		</div><!--end main content-->
+		
+		<footer tabindex="-1" class="wpthemeFooter" role="contentinfo" aria-label="IBM WebSphere Portal">
+			<div class="wpthemeInner">	
+				
+<div class="wpthemeFooterCol wpthemeLeft">
+	<h3>Help</h3>
+	<ul>
+		<li><a href="http://www.ibm.com/websphere/portal/library" target="_blank">Product documentation</a></li>
+		<li><a href="http://www.lotus.com/ldd/portalwiki.nsf/" target="_blank">Product wiki</a></li>
+		<li><a href="http://www.lotus.com/ldd/portalwiki.nsf/xpViewCategories.xsp?lookupName=Video%20Gallery" target="_blank">Media gallery</a></li>
+		<li><a href="http://www.ibm.com/websphere/developer/zones/portal/" target="_blank">WebSphere Portal Zone</a></li>
+	</ul>
+</div>
+<div class="wpthemeFooterCol wpthemeLeft">
+	<h3>Support</h3>
+	<ul>
+		<li><a href="http://www.ibm.com/software/genservers/portal/support/" target="_blank">Support page</a></li>
+		<li><a href="http://www-01.ibm.com/support/docview.wss?rs=1070&amp;uid=swg27007791" target="_blank">Supported hardware and software</a></li>
+		<li><a href="http://www14.software.ibm.com/webapp/set2/sas/f/handbook/home.html" target="_blank">IBM Software Support Guide</a></li>
+	</ul>
+</div>
+
+<div class="wpthemeClear"></div>
+			</div>
+		</footer><!-- page footer -->
+		
+	</div><!-- end frame -->
+		
+    <!-- This is responsible for bootstrapping the configuration for the javascript framework. 
+        This is located here instead of the head section to improve client performance. -->
+	<div class="wpthemeComplementaryContent" id="wpthemeComplementaryContent" role="region" tabindex="-1" aria-labelledby="wpthemeComplementaryContentText">
+		<span class="wpthemeAltText" id="wpthemeComplementaryContentText">Complementary Content</span>
+		<script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!1ZE9Umy1eVNSvwoh7BCY5w/mashup/ra:collection?themeID=ZJ_00000000000000A0BR2B300QC6&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1650775860918&amp;entry=wp_portal__0.0%3Aconfig_config_static&amp;entry=mm_enabler__0.0%3Aconfig_config_static"></script><script type="text/javascript">i$.merge({"ibmCfg":{"themeConfig":{"themeUniqueName":"ibm.portal.85Theme","themeRootURI":"/wps/contenthandler/!ut/p/digest!1ZE9Umy1eVNSvwoh7BCY5w/dav/fs-type1/themes/Portal8.5","themeWebAppBaseURI":"/wps/defaultTheme85/themes/html/dynamicSpots","themeWebDAVBaseURI":"dav:fs-type1/themes/Portal8.5/","modulesWebAppBaseURI":"/wps/themeModules","commonResourcesRootURI":"/wps/contenthandler/!ut/p/digest!1ZE9Umy1eVNSvwoh7BCY5w/dav/fs-type1/common-resources","isRTL":false,"isPageRenderModeCSA":false,"portletOverridePageTitle":"Friendly Name Disambiguation","currentContentNodeOID":"Z6_00000000000000A0BR2B300GG2","loadingImage":"css/images/loading.gif","dndSourceDefinitions":[],"categorySources":["system/WebContentCategory.json,label:shelf_socialCategory"],"styleSources":[],"layoutSources":[]},"portalConfig":{"locale":"en","portalURI":"/wps/portal","contentHandlerURI":"/wps/contenthandler/!ut/p/digest!TgrgRg5bVjt-EXtQNZ1hBA/","pocURI":"/wps/portal/!ut/p/z0/0wcA1NLTeQ!!/","isVirtualPortal":false,"canImpersonate":false,"themeRootURI":"/wps/defaultTheme85/themes/html/dynamicSpots","parentPageID":"Z6_00000000000000A0BR2B300G80","currentPageOID":"Z6_00000000000000A0BR2B300GG2","canAnonymousUserViewCurrentPage":true,"bootstrapState":"&lt;?xml version=&#034;1.0&#034; encoding=&#034;UTF-8&#034;?&gt;&lt;root xmlns=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/v6.1/portal-state&#034;&gt;&lt;state type=&#034;navigational&#034;&gt;&lt;selection selection-node=&#034;Z6_00000000000000A0BR2B300GG2&#034;&gt;&lt;mapping src=&#034;Z6_00000000000000A0BR2B300G80&#034; dst=&#034;Z6_00000000000000A0BR2B300GG2&#034;/&gt;&lt;mapping src=&#034;Z6_000000000000000000000000A0&#034; dst=&#034;Z6_00000000000000A0BR2B300GG2&#034;/&gt;&lt;mapping src=&#034;Z6_00000000000000A0BR2B300GG2&#034; dst=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/selection&gt;&lt;portlet id=&#034;Z7_00000000000000A0BR2B300CG5&#034;&gt;&lt;parameters&gt;&lt;param name=&#034;a&#034;&gt;&lt;value&gt;/acerca-de/informacion-corporativa/proveedores&lt;/value&gt;&lt;/param&gt;&lt;/parameters&gt;&lt;/portlet&gt;&lt;expansions&gt;&lt;node id=&#034;Z6_00000000000000A0BR2B300G80&#034;/&gt;&lt;node id=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/expansions&gt;&lt;/state&gt;&lt;/root&gt;","isUserLoggedIn":false,"currentUser":"anonymous portal user","currentUserOID":"","aggregatedStyle":null,"isCurrentPageEditable":false,"wcmPageMetadata":{"contentRoot":null,"sharingScope":null},"projectUUID":null},"userName":""},"com_ibm_theme_capabilities":{"wp_dynamicContentSpots_85":"0.0","wp_theme_portal_85":"0.0","dojo_dnd_basic":"1.9","dijit_menu_19":"0.0","dojo_selector_lite":"1.9","dojo_data":"1.9","wp_a11y":"0.0","wp_custom_page_style":"0.0","wp_simple_contextmenu_main":"0.0","wp_client_tracing":"0.0","dojo_fx":"1.9","dijit_layout_ext_19":"0.0","wp_toolbar_host":"0.0","wp_toolbar85":"0.0","wp_theme_utils":"0.0","wp_toolbar_hidecontrol":"0.0","dojo_dnd_basic_19":"0.0","wp_toolbar_common":"0.0","photon.dom":"1.0","portal.livetext.adr":"8.0","dojo_dom":"1.9","wp_theme_skin_region":"0.0","wp_simple_contextmenu_css":"0.0","wp_portal":"0.0","wp_toolbar_controlactions":"0.0","wp_toolbar_menuactions":"0.0","wp_simple_contextmenu_ext":"0.0","wp_high_contrast":"0.0","wp_managed_pages_support":"0.0","dijit":"1.9","dojo_data_19":"0.0","dojo_app_19":"0.0","wp_toolbar_sitepreview":"0.0","portal.livetext.action":"8.0","wp_toolbar_moremenu":"0.0","wp_dialog_main":"0.0","dojo_19":"0.0","portal.livetext.c2a":"8.0","dojo_fx_19":"0.0","wp_client_main":"0.0","oneUIDijit":"3.0.3","wp_hiddencontent":"0.0","wp_theme_portal_edit_85":"0.0","wp_portlet_css":"0.0","wp_toolbar_utils":"0.0","a11y":"1.0","dojo_dnd_ext_19":"0.0","wp_dialog_util":"0.0","dojo_app":"1.9","wp_state_page":"0.0","wp_simple_contextmenu_js":"0.0","oneUI":"3.0.3","wp_toolbar_viewframe_validator":"0.0","dijit_app":"1.9","toolbar":"8.5","wp_movecontrols":"0.0","highContrast":"1.0","wp_client_ext":"0.0","wp_toolbar_movecontrol":"0.0","wp_dnd_source":"0.0","dijit_form_19":"0.0","wp_toolbar_deletecontrol":"0.0","dijit_layout_basic_19":"0.0","wp_toolbar_wiring":"0.0","wp_one_ui_303":"0.0","dojo_selector_lite_19":"0.0","wp_one_ui_dijit":"3.0.3","wp_toolbar_sitepreview_menuactions":"0.0","dojo_fmt_19":"0.0","wp_dialog_draggable":"0.0","wp_toolbar_common_actionbar":"0.0","wp_dnd_main":"0.0","dijit_19":"0.0","wp_client_logging":"0.0","dojo":"1.9","wp_dnd_util":"0.0","wp_toolbar_contextmenu":"0.0","wp_toolbar_logo":"0.0","wp_layout_windowstates":"0.0","wp_dialog_css":"0.0","dijit_form":"1.9","dijit_app_19":"0.0","wp_simple_contextmenu_templates":"0.0","wp_photon_dom":"0.0","wp_state_page_modes":"0.0","wp_toolbar_host_edit":"0.0","wp_liveobject_framework":"0.0","wp_toolbar_projectmenu":"0.0","wp_toolbar_actionbar":"0.0","dojo_fmt":"1.9","wp_dnd_namespace":"0.0","wp_client_dnd":"0.0","wp_searchbar":"0.0","wp_wcm_modal_dialog":"0.0","wp_dnd_target":"0.0","dijit_layout_basic":"1.9","wp_modules":"0.0","dijit_menu":"1.9","wp_one_ui_dijit_303":"0.0","wp_dnd_css":"0.0","wp_liveobject_framework_core":"0.0","wp_client_selector":"0.0","wp_hiddenpages":"0.0","portal.livetext.core":"8.5","dijit_layout_ext":"1.9","wp_theme_menus":"0.0","wp_status_bar":"0.0","dojo_dom_19":"0.0","wp_one_ui":"3.0.3","wp_toolbar_host_view":"0.0","dojo_dnd_ext":"1.9","simple-contextmenu":"1.1","modules":"0.1","wp_legacy_layouts":"0.0","wp_admin_edit":"0.0","portal.livetext.hcard":"8.0"},"com_ibm_device_class":[]});ibmCfg.portalConfig.bootstrapState=(ibmCfg.portalConfig.bootstrapState||"").replace(/&lt;/gm, '<').replace(/&gt;/gm, '>').replace(/&amp;/gm, '&').replace(/&#039;/gm, "'").replace(/&#034;/gm, '"');i$.merge({"ibmCfg":{"enablerConfig":{"com.ibm.mashups.proxy.url":"/wps/proxy","com.ibm.mashups.productname":"IBM WebSphere Portal","com.ibm.mashups.anonymous.mode":"true","serviceDocumentUrl":"/wps/contenthandler/!ut/p/digest!TgrgRg5bVjt-EXtQNZ1hBA/model/service-document/?locale=en","anonymousUser":true,"user":null,"fontSizeEnlarged":false,"isBidi":false,"locale":"en","displayLocale":"en","com.ibm.mashups.contextroot":"/wps","defaultLayoutTemplateURI":"dav:fs-type1/themes/Portal8.5/layout-templates/2ColumnEqual/","com.ibm.mashups.contenthandler.private":"/wps/mycontenthandler/!ut/p/digest!TgrgRg5bVjt-EXtQNZ1hBA/","com.ibm.mashups.contenthandler.public":"/wps/contenthandler/!ut/p/digest!TgrgRg5bVjt-EXtQNZ1hBA/"}},"portalMashupsConfig":{"serviceDocURL":"/wps/contenthandler/!ut/p/digest!TgrgRg5bVjt-EXtQNZ1hBA/model/service-document/?locale=en","contentHandlerContextPath":"/wps/contenthandler/!ut/p/digest!TgrgRg5bVjt-EXtQNZ1hBA/"}});
+(function(){ibmToolbarConfig = {projectUUID: "",toolbarMode: "closed",inManagedPages: "true"==="true",isPrivilegedUser: "false"==="true",hasEditSharedPermission: "false"==="true",dialogJavascriptURL: "/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/dialog/dialogModal.js",dialogUtilsJavascriptURL: "/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/dialog/dialogModalUtils.js",draftPageUUID: ""
+	}})(); 
+ 
+ 
+var SemTagSvcPortalGlobalDynamic={
+basePumaResolvedUrl: ''+
+''+
+'/wps/contenthandler/!ut/p/digest!TgrgRg5bVjt-EXtQNZ1hBA/um/secure/users/profiles?locale=en_US',
+availAttribUrl: ''+
+''+
+'/wps/contenthandler/!ut/p/digest!TgrgRg5bVjt-EXtQNZ1hBA/um/secure/attributes/users?locale=en_US'
+};
+i$.merge({"ibmCfg":{"portalConfig":{"isShowHiddenPages":false}}});</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_00000000000000A0BR2B300QC6&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;entry=wp_toolbar_utils__0.0%3Aconfig_js&amp;entry=wp_toolbar_menuactions__0.0%3Aconfig_js&amp;entry=wp_wcm_modal_dialog__0.0%3Aconfig_js&amp;entry=wp_liveobject_framework_core__0.0%3Aconfig_js&amp;entry=wp_one_ui_303__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_ext__0.0%3Aconfig_js&amp;entry=wp_toolbar_actionbar__0.0%3Aconfig_js&amp;entry=wp_high_contrast__0.0%3Aconfig_js&amp;entry=wp_state_page_modes__0.0%3Aconfig_js&amp;entry=wp_dnd_main__0.0%3Aconfig_js&amp;entry=wp_dialog_main__0.0%3Aconfig_js&amp;entry=wp_status_bar__0.0%3Aconfig_js&amp;entry=wp_liveobject_framework__0.0%3Aconfig_js&amp;entry=wp_toolbar_projectmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_contextmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview__0.0%3Aconfig_js&amp;entry=wp_theme_skin_region__0.0%3Aconfig_js&amp;entry=wp_movecontrols__0.0%3Aconfig_js&amp;entry=wp_toolbar_controlactions__0.0%3Aconfig_js"></script><a rel="alternate" id="config_js_deferred" href="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_00000000000000A0BR2B300QC6&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1512156772000&amp;entry=mm_enabler__0.0%3Aconfig_js&amp;entry=mm_builder__0.0%3Aconfig_js&amp;entry=wp_pagebuilder_base__0.0%3Aconfig_js&amp;entry=wp_pagebuilder_ui__0.0%3Aconfig_js&amp;entry=wp_portal_ui_utils__0.0%3Aconfig_js&amp;entry=wp_managed_pages_support_edit__0.0%3Aconfig_js&amp;entry=wp_portal_client_rest_utils__0.0%3Aconfig_js&amp;entry=wp_content_mapping_picker__0.0%3Aconfig_js&amp;deferred=true" style="display:none"></a><span id="simpleMenuTemplate" class="wpthemeMenuLeft">
+    <div class="wpthemeMenuBorder">
+        <div class="wpthemeMenuNotchBorder"></div>
+        <!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+        <ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+            <li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span>${badge}</li>
+        </ul>
+    </div>
+    <!-- Template for loading -->
+    <div class="wpthemeMenuLoading wpthemeMenuLoadingText wpthemeTemplateLoading">${loading}</div>
+    <!-- Template for submenu -->
+    <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+        <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+            <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu"><li role="menuitem" tabindex="-1"></li></ul>
+        </div>
+    </div>
+</span><form action="#" id="dnd-drop-form" method="post" enctype="multipart/form-data" style="display:none;"><input type="hidden" name="_csrf_token_" value="FRhjR4WH6j1wmCKVT:L54kaBgIzkm9h9-ZBQN1lYmhq7QHKgJ"><input type="hidden" name="errorURI" value="op-error:cookie"><input type="hidden" name="digest" value="new"></form></div>
+
+
+</body></html>
